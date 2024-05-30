@@ -1,5 +1,7 @@
 # Coding Challenge for MahiGaming Interview
 
+## Separate Repo for Automation Frameworks and Tests - [LINK](blank)
+
 ## Calculator App Requirements
 
 This project is a coding challenge for MahiGaming, where the task is to create a Calculator app using Vanilla TypeScript. Below are the detailed requirements and instructions.
