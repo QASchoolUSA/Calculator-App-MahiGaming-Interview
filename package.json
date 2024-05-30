@@ -4,7 +4,7 @@
   "description": "Simple Calculator App using TypeScript.",
   "main": "index.js",
   "scripts": {
-    "start": "tsc && cp src/index.html dist/index.html && cp styles.css dist/styles.css && cp -r lib dist && http-server dist -p 8080"
+    "start": "tsc && cp src/index.html dist/index.html && cp styles.css dist/styles.css && cp -r lib dist"
   },
   "author": "Anonymous",
   "license": "ISC",
