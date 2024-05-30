@@ -1,0 +1,16 @@
+{
+  "name": "calculator-app",
+  "version": "1.0.0",
+  "description": "Simple Calculator App using TypeScript.",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && cp src/index.html dist/index.html && cp styles.css dist/styles.css && cp -r lib dist && http-server dist -p 8080"
+  },
+  "author": "Anonymous",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^14.1.1",
+    "mathjs": "^12.4.2",
+    "typescript": "^5.4.5"
+  }
+}
